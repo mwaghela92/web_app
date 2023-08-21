@@ -7,19 +7,17 @@ https://rapidapi.com/api-sports/api/api-football/
 Ideas:
 
 Player based:  
-A
+A:
 1. Get stats for all players you care about
 2. add those stats to a DB table (replace operation)
 3. Option to add/remove a player from the table
 
-B
+B:
 1. Match based stats for each player
 2. Add it to a graph by matches to visualize for the season
 
   
 League based:  
-A 
+A:
 1. Get stats for selected teams
-2. Option to add/remove 
-3. Multiple leagues (test)
-
+2. Option to add/remove
